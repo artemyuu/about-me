@@ -1,1 +1,1 @@
-https://www.codewars.com/users/artemyuu/badges/large
+![](https://www.codewars.com/users/artemyuu/badges/large)
