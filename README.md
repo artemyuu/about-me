@@ -1,2 +1,1 @@
-# about-me
-about-me
+https://www.codewars.com/users/artemyuu/badges/large
